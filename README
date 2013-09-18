@@ -1,0 +1,8 @@
+Very handy scripts for screen.
+Save this script under ~/.screenrc
+
+What it does?
+1. Remaps action key from 'a' to 't'
+(eg. Detach would be Ctrl+'t', 'd')
+2. Gives status bar on the bottom of the screen
+Eases navigating through different tabs in the screen
